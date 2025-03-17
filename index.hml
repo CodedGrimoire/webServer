@@ -1,0 +1,7 @@
+<html>
+<head><title>Welcome to My Server</title></head>
+<body>
+    <h1>Hello, world!</h1>
+    <p>Welcome to my simple HTTP server built in Rust!</p>
+</body>
+</html>
