@@ -1,0 +1,9 @@
+# Simple HTTP Server
+
+This project is a basic HTTP server built in Rust using the `hyper` and `tokio` libraries. It supports virtual hosting, allowing it to serve different websites based on the domain name in the request. The server reads the `index.html` of each site from a directory structure and serves the appropriate content.
+
+## Features
+- Handles multiple websites via virtual hosting.
+- Serves static HTML files.
+- Built using Rust with async support via `tokio` and `hyper`.
+
