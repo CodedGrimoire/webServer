@@ -1,0 +1,2 @@
+# Tell GitHub to recognize .rs files as Rust code
+*.rs linguist-language=Rust
